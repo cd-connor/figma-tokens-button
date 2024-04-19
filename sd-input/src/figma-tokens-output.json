@@ -1,14 +1,14 @@
 {
   "global": {
     "Primary Theme": {
-      "value": "#2663ff",
+      "value": "#2bff26",
       "type": "color"
     },
     "Main Border": {
       "value": {
-        "color": "#0f7600",
-        "width": "2px",
-        "style": "solid"
+        "color": "#750000",
+        "width": "10px",
+        "style": "dashed"
       },
       "type": "border"
     }
